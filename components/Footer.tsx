@@ -1,3 +1,5 @@
+'use client'
+
 import Link from 'next/link'
 import { FiPhone, FiMail, FiMapPin, FiFacebook, FiLinkedin, FiTwitter, FiInstagram } from 'react-icons/fi'
 import { FaWhatsapp } from 'react-icons/fa'
@@ -138,7 +140,14 @@ export default function Footer() {
               <h3 className="text-white font-semibold mb-2">Subscribe to Our Newsletter</h3>
               <p className="text-sm text-gray-400">Get updates on new products and special offers</p>
             </div>
-            <form className="flex space-x-2 w-full md:w-auto">
+            <form 
+              onSubmit={(e) => {
+                e.preventDefault()
+                // Newsletter subscription logic can be added here
+                alert('Thank you for subscribing!')
+              }}
+              className="flex space-x-2 w-full md:w-auto"
+            >
               <input
                 type="email"
                 placeholder="Enter your email"
