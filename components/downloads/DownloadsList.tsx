@@ -1,3 +1,5 @@
+'use client'
+
 import { FiDownload, FiFile, FiLock } from 'react-icons/fi'
 
 const downloads = [
