@@ -77,7 +77,7 @@ export default function Hero() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="components/static/images/eggs.jpeg"
+                src="/images/eggs.jpeg"
                 alt="Fresh agricultural products"
                 className="w-full h-[500px] object-cover"
               />
