@@ -17,6 +17,7 @@ const categories = [
     href: '/products?type=Import',
     color: 'from-blue-400 to-indigo-500',
     badge: 'Import',
+    
   },
 ]
 
