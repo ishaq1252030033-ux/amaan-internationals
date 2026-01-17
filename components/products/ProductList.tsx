@@ -12,7 +12,7 @@ const products = [
     name: 'Eggs',
     description: 'Premium quality fresh eggs, Grade A',
     specifications: ['Size: Medium to Large', 'Packaging: 30/12 tray or carton', 'Shelf Life: 30 days', 'MOQ: 1000 trays'],
-    image: 'https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=600&h=400&fit=crop',
+    image: '/images/eggs.jpeg',
     category: 'Eggs',
     type: 'Export',
   },
