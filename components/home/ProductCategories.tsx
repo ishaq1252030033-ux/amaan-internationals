@@ -13,7 +13,7 @@ const categories = [
   {
     name: 'Import Products',
     description: 'Raw dates, olive oil, camel milk, dry fruits',
-    image: 'https://images.unsplash.com/photo-1606312619070-d48b4bdcbc8c?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&h=400&fit=crop',
     href: '/products?type=Import',
     color: 'from-blue-400 to-indigo-500',
     badge: 'Import',
