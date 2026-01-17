@@ -13,7 +13,7 @@ const galleryCategories = [
 ]
 
 const galleryImages = [
-  { src: 'https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=800&h=600&fit=crop', category: 'products', alt: 'Fresh Eggs' },
+  { src: '/images/eggs.jpeg', category: 'products', alt: 'Fresh Eggs' },
   { src: 'https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=800&h=600&fit=crop', category: 'products', alt: 'Fresh Fruits' },
   { src: 'https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&h=600&fit=crop', category: 'products', alt: 'Fresh Vegetables' },
   { src: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&h=600&fit=crop', category: 'facilities', alt: 'Godown Facility' },
