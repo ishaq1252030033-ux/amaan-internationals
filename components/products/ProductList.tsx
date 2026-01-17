@@ -21,7 +21,7 @@ const products = [
     name: 'Desi Eggs',
     description: 'Farm-fresh desi eggs, premium quality',
     specifications: ['Size: Medium to Large', 'Packaging: 30/12 tray or carton', 'Shelf Life: 30 days', 'MOQ: 1000 trays'],
-    image: 'https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=600&h=400&fit=crop',
     category: 'Eggs',
     type: 'Export',
   },
